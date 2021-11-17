@@ -1,14 +1,7 @@
 ---
 title: "airtabler"
-output: 
-  html_document: 
-    keep_md: yes
+output: github_document
 ---
-Provides access to the [Airtable API](http://airtable.com/api)
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 This repository is a quick fix for the issue 10: https://github.com/bergant/airtabler/issues/10. 
 
