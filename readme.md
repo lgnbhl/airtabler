@@ -1,7 +1,7 @@
 airtabler
 ================
 
-This repository is a quick fix for the issue 10:
+This repository is a quick fix for the Airtabler issue 10:
 <https://github.com/bergant/airtabler/issues/10>.
 
 Note that the R package dplyr has been added as a dependency.

@@ -546,7 +546,7 @@ air_table_funs <- function(base, table_name) {
       ret
     })
   }
-  # QUICK FIX FOR ISSUE #10 https://github.com/bergant/airtabler/issues/10
+  # QUICK FIX FOR ISSUE airtabler#10 https://github.com/bergant/airtabler/issues/10
   do.call(dplyr::bind_rows, x)
   #do.call(rbind, x)
 
